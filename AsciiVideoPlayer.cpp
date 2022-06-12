@@ -481,5 +481,5 @@ int main()
 
     HandleVideo(cap, videoName);
 
-    std::cout << "\nProgram Executed Succesfully" << endl;
+    std::cout << "\nProgram Executed Successfully" << endl;
 }
